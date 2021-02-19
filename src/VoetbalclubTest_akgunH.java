@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class VoetbalclubTest_akgunH {
+    public class VoetbalclubTest_akgunH{
     private Voetbalclub testclub;
 
     @BeforeEach
